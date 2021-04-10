@@ -1,0 +1,21 @@
+{"questions": [
+    {
+        "id": 1,
+        "question":"Is Java Object Oriented?",
+        "option1": "yes",
+        "option2" : " no"
+    },
+    {
+        "id": 2,
+        "question":"Is Angular SPA?",
+        "option1": "yes",
+        "option2" : " no"
+    },
+    {
+        "id": 3,
+        "question":"Angular 2 uses . . . . . . . . . for fast views on mobile.",
+        "option1": "client side rendering",
+        "option2" : "server side rendering"
+    }
+]
+}

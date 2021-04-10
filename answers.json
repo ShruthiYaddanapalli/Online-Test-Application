@@ -1,0 +1,17 @@
+{
+    "answers":[
+        {
+            "id":1,
+            "answer":"yes"
+
+        },
+        {
+            "id":2,
+            "answer":"yes"
+        },
+        {
+            "id":3,
+            "answer":"server side rendering"
+        }
+    ]
+}
